@@ -17,5 +17,5 @@ Some of the key questions explored in this project include:
 - Checking stock levels and inventory management.
 
 ## 💻 Tech Stack Used
-- Database: MySQL / PostgreSQL / MS SQL Server (जो भी आपने यूज़ किया हो)
+- Database: PostgreSQL
 - Tool: Data Extraction & Analysis using SQL
